@@ -10,4 +10,5 @@ Key features included:
   •	Typography and Colors: Clean, modern fonts and a color palette designed to ensure readability and enhance the shopping experience.
   
 Utilizing Figma’s components, interactive prototypes, and real-time collaboration features, the project achieved a responsive, user-friendly design while maintaining a strong visual identity for the brand.
+
 https://www.figma.com/design/8l1puDjmbqczCQsaOVi8YY/shopping-websie?node-id=0-1&p=f&t=2Fwp4KJoMAdCoexe-0
